@@ -24,7 +24,7 @@ Implementing Lenet-5, a simple and straighforward convolutional neural network a
 ------------------
 
     ├── MNIST      #Dataset                       
-    ├── images     #Images for readme file               
+    ├── images     #Images for readme file          
     ├── src  
     ├   ├── Results
     ├   ├   ├── #plot images      
